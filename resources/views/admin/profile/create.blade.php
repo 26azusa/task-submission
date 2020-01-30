@@ -1,8 +1,8 @@
 {{-- layouts/profile.blade.phpを読み込む --}}
 @extends('layouts.profile')
 
-{{-- profile.blade.phpの@yield('title')に'プロフィール表示画面'を埋め込む --}}
-@section('title', 'プロフィール表示画面')
+{{-- profile.blade.phpの@yield('title')に'プロフィール更新画面'を埋め込む --}}
+@section('title', 'プロフィール更新画面')
 
 {{-- profile.blade.phpの@yield('content')に以下のタグを埋め込む --}}
 @section('content')
